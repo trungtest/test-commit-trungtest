@@ -18,6 +18,10 @@ root directory along with this program.
 /*
 function to change Add New Agenda button in event.html
  */
+ 
+ /*
+ test edit by web
+ */
 
 function changeAddAgenda(addNewButton){
   if(addNewButton.value === "Add New Agenda"){
