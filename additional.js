@@ -26,3 +26,8 @@ function changeAddAgenda(addNewButton){
     addNewButton.value = "Add New Agenda";
   }
 }
+
+/*
+add 2
+*/
+
