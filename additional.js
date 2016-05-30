@@ -23,6 +23,10 @@ function to change Add New Agenda button in event.html
  test edit by web
  */
 
+ /*
+ clgt vltn
+ */
+
 function changeAddAgenda(addNewButton){
   if(addNewButton.value === "Add New Agenda"){
     addNewButton.value = "Hide";
